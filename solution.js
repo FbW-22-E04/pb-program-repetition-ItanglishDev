@@ -12,3 +12,10 @@ while (counter < 20) {
   newVal += +counter;
 }
 console.log(newVal);
+
+console.log("NEXT");
+
+do {
+  console.log("The number is", i);
+  i++;
+} while (i < 20);
